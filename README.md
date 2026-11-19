@@ -1,0 +1,2 @@
+# daily-ai-project-2026-11-19-promptguard-privacy-first-auditor
+A lightweight web service that lets developers audit LLM prompts and responses for injection attacks and accidental privacy leaks. It combines contrastive prototype jailbreak detection with differential‑privacy‑aware leakage scoring, offering an API‑first experience that never stores raw user data long‑term. Build-it-yourself AI/ML project.
